@@ -1,0 +1,78 @@
+:root { 
+    --Soft-blue: hsl(215, 51%, 70%);
+    --Cyan: hsl(178, 100%, 50%);
+    --Very-dark-blue-main: hsl(217, 54%, 11%);
+    --Very-dark-blue-card: hsl(216, 50%, 16%);
+    --Very-dark-blue-line: hsl(215, 32%, 27%);
+    --White: hsl(0, 0%, 100%);
+}
+body { 
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+main {
+    background-color: var(--Very-dark-blue-main);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.card {
+    padding: 20px;
+    background-color: var(--Very-dark-blue-card);
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 10px var(--Very-dark-blue-main);
+}
+.card img.nft { 
+    max-width: 100%;
+    border-radius: 10px;
+}
+.card h1 { 
+    font-size: 18px;
+    font-weight: 600;
+}
+.card p { 
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--Soft-blue);
+}
+.card .info { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 25px;
+    border-bottom: 1px solid var(--Very-dark-blue-line);
+}
+.card .info span:first-child {
+    color: var(--Cyan);
+    display: flex;
+    align-items: center;
+    
+}
+.card .info span:first-child img { 
+    padding-right: 8px; 
+}
+.card .info span:last-child { 
+    color: var(--Soft-blue);
+}
+
+.card img.avatar { 
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid var(--White);
+}
+.card footer { 
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.card footer span.basic {
+    color: var(--Soft-blue);
+    margin-left: 20px;
+}
+.card footer span.heavy { 
+    color: var(--White);
+}
