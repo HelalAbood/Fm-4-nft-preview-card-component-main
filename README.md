@@ -1,6 +1,6 @@
-# Frontend Mentor - - NFT preview card component solution
+# Frontend Mentor - NFT preview card component solution
 
-### Demo: 
+### Demo: https://helalabood.github.io/Fm-4-nft-preview-card-component-main/
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
@@ -23,8 +23,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U]
+- Live Site URL: [https://helalabood.github.io/Fm-4-nft-preview-card-component-main/](https://your-live-site-url.com)
 
 ## My process
 
@@ -42,4 +42,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - GitHub - [@HelalAbood](https://github.com/HelalAbood)
 - Frontend Mentor - [@HelalAbood](https://www.frontendmentor.io/profile/HelalAbood)
-- Email - (stavuo.2010@ymail.com)
+- Email - stavuo.2010@ymail.com
